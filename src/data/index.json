@@ -1,0 +1,92 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Guru Nanak Institutions | Hacktopia",
+      "description": "Front-end dev with HTML, CSS, JS. Established secure PHP-MySQL connections, executed CRUD operations."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "CVR College Of Engineering | Hackathon",
+      "description": "Front-end development using HTML, CSS, and JavaScript to create intuitive and visually appealing user interfaces."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "CVR College Of Engineering | Codeathon",
+      "description": "Sole developer responsible for writing the entire program, covering design, implementation, and debugging processes."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "SIH 2023",
+      "description": "Developing and presenting PowerPoint presentations to effectively communicate and explain our idea to validators."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/myntra_clone.jpg",
+      "title": "Myntra Clone",
+      "description": "I have designed a Myntra Clone website while learning React. This project covers advanced topics such as Hooks, Redux Toolkit, and API integration.",
+      "link": "https://github.com/ChanduPingili/Myntra_Clone"
+    },
+    {
+      "id": "2",
+      "src": "./img/StriveNet.jpg",
+      "title": "StriveNet",
+      "description": "I have designed a Digital Agency Website while learning the basics of React, including components and fragments.",
+      "link": "https://github.com/ChanduPingili/StriveNet_Digital_Agency"
+    },
+    {
+      "id": "3",
+      "src": "./img/social_media.jpg",
+      "title": "Social Media",
+      "description": "I have developed a Social Media project with functionalities such as adding posts, creating posts, fetching posts, handling loading states, and implementing routing.",
+      "link": "https://github.com/ChanduPingili/ReactPractice"
+    },
+    {
+      "id": "4",
+      "src": "./img/FarmCher.jpg",
+      "title": "FarmChar",
+      "description": "During my first hackathon at college, I collaborated with friends to create a farming-related website using HTML, CSS, JavaScript, and Bootstrap.",
+      "link": "https://github.com/DILEEPSAJJA/CVR-IT-HACKATHON"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "4",
+      "src": "./img/html_css_js.jpg",
+      "description": "During my initial days, I developed several small webpages using HTML, CSS, and JavaScript. ",
+      "author_name": "Front End",
+      "author_designation": "HTML | CSS | JS"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/REact-Redux.png",
+      "description": "I have developed several major websites, including clones, a Todo List application, and projects involving API integration. ",
+      "author_name": "React",
+      "author_designation": "React + Vite | Redux"
+    },
+    {
+      "id": "3",
+      "count": "4",
+      "src": "./img/Mysql.jpg",
+      "description": "During my second hackathon, I learned and utilized MySQL with PHP to develop innovative projects",
+      "author_name": "Database",
+      "author_designation": "MySQL"
+    },
+    {
+      "id": "4",
+      "count": "5",
+      "src": "./img/java.jpg",
+      "description": "I regularly solve and practice programming questions using Java, honing my problem-solving skills and deepening my understanding of the language.",
+      "author_name": "Programming",
+      "author_designation": "Java | C | Python"
+    }
+  ]
+}
